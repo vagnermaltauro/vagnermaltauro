@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vagnermaltauro" target="blank"><img src="https://img.shields.io/twitter/follow/vagnermaltauro?logo=twitter&style=for-the-badge" alt="vagnermaltauro" /></a> </p>
 
-- 🔭 I'm currently looking for an **opportunity**
+- 🔭 I’m currently working on **Mind The Graph :brain:**
 
 - 🌱 I’m currently learning **React.js**
 
