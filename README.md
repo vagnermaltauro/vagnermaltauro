@@ -38,7 +38,7 @@
     <tr>
       <td align="center">
         <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vagnermaltauro&show_icons=true&locale=en&layout=compact" align="center" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vagnermaltauro&theme=radical&show_icons=true&locale=en&layout=compact" align="center" />
         </div>
       </td>
       <td align="center">
