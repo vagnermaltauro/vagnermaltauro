@@ -79,7 +79,7 @@
           rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest"
             width="50" height="50" /> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-            width="50" height="50" /> </a> <br /> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img
+            width="50" height="50" /> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="50" height="50" />
         </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
