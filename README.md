@@ -94,14 +94,12 @@
     <tr>
       <td align="center">
         <div align="center">
-          <img
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=vagnermaltauro&show_icons=true&locale=en&layout=compact"
-            align="center" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vagnermaltauro&show_icons=true&locale=en&layout=compact" align="center" />
         </div>
       </td>
       <td align="center">
 
-        [![trophy](https://github-profile-trophy.vercel.app/?username=Vagner&theme=radical&row=2&column=3)](https://github.com/Vagner/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=vagnermaltauro&theme=radical&row=2&column=3)](https://github.com/vagnermaltauro/github-profile-trophy)
       </td>
     </tr>
   </table>
