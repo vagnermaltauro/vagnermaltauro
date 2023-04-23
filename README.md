@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vagner Maltauro</h1>
-<h3 align="center">i am full-stack developer</h3>
+<h3 align="center">Full-stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vagnermaltauro&label=Profile%20views&color=0e75b6&style=flat" alt="vagnermaltauro" /> </p>
 
@@ -28,4 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vagnermaltauro&show_icons=true&locale=en&layout=compact" alt="vagnermaltauro" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vagnermaltauro&show_icons=true&locale=en" alt="vagnermaltauro" /></p>
-
