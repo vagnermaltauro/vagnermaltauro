@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vagner Maltauro</h1>
 <h3 align="center">Full-stack Developer</h3>
 
-<p align="left"> <img
-    src="https://komarev.com/ghpvc/?username=vagnermaltauro&label=Profile%20views&color=0e75b6&style=flat"
-    alt="vagnermaltauro" /> </p>
-
 - 🔭 I’m currently working on **Mind the Graph**
 
 - 🌱 I’m currently learning **NestJS**
