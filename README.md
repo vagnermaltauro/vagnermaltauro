@@ -5,7 +5,7 @@ I embrace challenges for continuous learning, applying knowledge to create high-
 My goal is to refine my workflow for efficiency and to deeply understand memory management to develop exceptional applications.
 
 Fun Facts
-* I'm learning Golang now
+* I'm learning Java now
 * Neovim enthusiast
 * I work at Mind the Graph, btw
 * I have a beautiful wife, btw
