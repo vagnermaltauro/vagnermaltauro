@@ -7,7 +7,6 @@ My goal is to refine my workflow for efficiency and to deeply understand memory 
 Fun Facts
 * I'm learning Java now
 * Neovim enthusiast
-* I work at Mind the Graph, btw
 * I have a beautiful wife, btw
 * I only have a three-legged dog, btw
 * My Links
