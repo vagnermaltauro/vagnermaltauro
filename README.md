@@ -7,7 +7,6 @@ My goal is to refine my workflow for efficiency and to deeply understand memory 
 Fun Facts
 * I'm learning Golang now
 * Neovim enthusiast
-* Currently working on Mind The Graph
 * I like Neovim and open source, btw
 * I have a beautiful wife, btw
 * I only have a three-legged dog, btw
